@@ -1,6 +1,12 @@
 # Kaggle Health Insurance Cross Sell Data Preparation and Brief Analysis
 #### by Shawn Oppermann
 
+## Repository Contents
+
+Report: <a href=https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/blob/master/notebooks/report.ipynb>Technical Notebook </a>
+
+Additional Code: <a href=https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/blob/master/notebooks/response_functions.py>Response Graphing Functions </a>
+
 ## README Contents
 
 [Data](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction#data)

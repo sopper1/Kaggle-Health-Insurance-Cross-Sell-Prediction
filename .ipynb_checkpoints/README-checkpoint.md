@@ -26,7 +26,7 @@ The data as available for download at https://www.kaggle.com/anmolkumar/health-i
    
 This project will only be concerned with train.csv, which contains 381109 entries with the following data:
 
-![train.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/tree/master/images/train_desc.png)
+![train.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/blob/master/images/train_desc.png)
 
 ## Analysis and Results
 

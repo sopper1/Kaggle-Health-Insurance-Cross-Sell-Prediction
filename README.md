@@ -3,17 +3,13 @@
 
 ## README Contents
 
-[Data](https://github.com/a-woodbury/A-House-with-a-View#data)
+[Data](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction#data)
 
-[Model](https://github.com/a-woodbury/A-House-with-a-View#model)
+[Analysis and Results](https://github.com/a-woodbury/A-House-with-a-View#analysis-and-results)
 
-[Results](https://github.com/a-woodbury/A-House-with-a-View#results)
+[Future Work](https://github.com/a-woodbury/A-House-with-a-View#future-work)
 
-[Recommendations](https://github.com/a-woodbury/A-House-with-a-View#recommendations)
-
-[Future](https://github.com/a-woodbury/A-House-with-a-View#future)
-
-[Project Info](https://github.com/a-woodbury/A-House-with-a-View#project-info)
+[Project Specifications](https://github.com/a-woodbury/A-House-with-a-View#project-specifications)
 
 ## Overview
 
@@ -30,7 +26,7 @@ The data as available for download at https://www.kaggle.com/anmolkumar/health-i
    
 This project will only be concerned with train.csv, which contains 381109 entries with the following data:
 
-## **DATA DESC GOES HERE**
+![train_desc.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/tree/master/images/train_desc.png)
 
 ## Analysis and Results
 
@@ -40,7 +36,7 @@ Since the response rate over the entire train set is 12.25%, even an ideal custo
 
 In order to determine the features that most significantly affect the response rate, I compare the response rate over different categories for a given feature. For instance, I compare the response rate of men with the response rate of women. For continuous features, I compare brackets.
 
-## **DATA CHART GOES HERE**
+![response_analysis.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/tree/master/images/response_analysis.png)
 
 Many categorical features heavily affect the response rate:
    * If a customer was previously insured, then the response rate is almost 0%

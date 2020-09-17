@@ -30,7 +30,7 @@ The data as available for download at https://www.kaggle.com/anmolkumar/health-i
    * test.csv - dataset for predicting the customer's interest
    * sample_submission.csv - a sample csv that would be submitted to the competition on Kaggle
    
-This project will only be concerned with train.csv, which contains 381109 entries with the following data:
+This project will only be concerned with train.csv, which contains 381109 entries. Kaggle describes the data as follows:
 
 ![train.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/blob/master/images/train_desc.png)
 
@@ -68,3 +68,6 @@ I would like to analyze the data more closely, calculate correlation coefficient
     - Tools/IDE: Anaconda, Jupyter Notebook
     - Libraries: pandas, matplotlib
 
+### External Sources
+    - Kaggle "Kaggle Health Insurance Cross Sell Prediction" dataset posted by Anmol Kumar
+    https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction#

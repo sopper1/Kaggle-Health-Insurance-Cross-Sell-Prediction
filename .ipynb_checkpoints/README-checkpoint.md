@@ -26,7 +26,7 @@ The data as available for download at https://www.kaggle.com/anmolkumar/health-i
    
 This project will only be concerned with train.csv, which contains 381109 entries with the following data:
 
-![train_desc.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/tree/master/images/train_desc.png)
+![train.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/tree/master/images/train_desc.png)
 
 ## Analysis and Results
 
@@ -36,7 +36,7 @@ Since the response rate over the entire train set is 12.25%, even an ideal custo
 
 In order to determine the features that most significantly affect the response rate, I compare the response rate over different categories for a given feature. For instance, I compare the response rate of men with the response rate of women. For continuous features, I compare brackets.
 
-![response_analysis.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/tree/master/images/response_analysis.png)
+![response.png](https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/tree/master/images/response_analysis.png)
 
 Many categorical features heavily affect the response rate:
    * If a customer was previously insured, then the response rate is almost 0%
